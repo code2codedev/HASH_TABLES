@@ -1,2 +1,3 @@
 # HASH_TABLES
-Assignment for array operations
+Assignment for creating hash tables
+
